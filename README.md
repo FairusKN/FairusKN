@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with anyone<br>🌱 I’m currently learning programming<br>💬 Ask me about coding<br>⚡ A Student
+<br>🌱 I’m currently learning programming<br>⚡ A Student
 
 
 ## 🌐 Socials:
